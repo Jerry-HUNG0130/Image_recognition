@@ -1,0 +1,4 @@
+heat_img
+preprocessed_images.venv/
+__pycache__/
+.venv
